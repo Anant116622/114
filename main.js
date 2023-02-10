@@ -1,0 +1,17 @@
+function preoload()
+{
+
+}
+function setup()
+{
+    canvas = createCanvas(300,300)
+    canvas.center()
+}
+function draw()
+{
+
+}
+function take_snapshot()
+{
+    save('something.png')
+}
